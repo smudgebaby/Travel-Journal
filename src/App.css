@@ -1,0 +1,93 @@
+.head {
+    height: 55px;
+    margin: 0px;
+    background-color: #F55A5A;
+    padding: 16px 3px 15px 213px;
+    min-width: 326px
+    
+}
+
+.headLogo{
+    width: 24px;
+    float:left;
+    margin: 15px 0px;
+    align-items:center;
+}
+.headText{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+    color: #FFFFFF;
+    display: flex;
+    margin-left: 30px;
+}
+
+.section{
+    margin: 45px 40px 18px 40px;
+}
+
+.section-image{
+    width: 125px;
+    height: 168px;
+    float: left;
+    border-radius: 5px;
+    object-fit: cover;
+}
+
+.section-contents{
+    padding-left: 145px;
+}
+
+.gps-icon{
+    width:15px;
+}
+
+.location{
+    width: 40px;
+    height: 10px;
+    font-weight: normal;
+    font-size: 10.24px;
+    line-height: 12px;
+    letter-spacing: 0.17em;
+    color: #2B283A;
+    padding:0px 12px 0px 5px;
+}
+
+.map-link{
+    width: 106px;
+    height: 13px;
+    font-weight: normal;
+    font-size: 10.24px;
+    line-height: 12px;
+    text-decoration-line: underline;
+    color: #918E9B;
+}
+
+.title{
+    width: 326px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 30px;
+    color: #2B283A;
+}
+
+.date{
+    width: 319px;
+    height: 11px;
+    font-weight: bold;
+    font-size: 10.24px;
+    line-height: 12px;
+    color: #2B283A;
+}
+
+.description{
+    min-width: 326px;
+    height: 45px;
+    left: 184px;
+    top: 203px;
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #2B283A;
+}
